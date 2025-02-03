@@ -35,6 +35,8 @@ distance['London']['Paris'] = london_paris
 
 print(distance)
 
+# Супер чекаю на інші завдання
+
 
 
 
